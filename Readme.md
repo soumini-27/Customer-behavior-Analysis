@@ -34,6 +34,19 @@ This project addresses these challenges by analyzing customer behavior across de
   - Purchase amount
   - Customer review ratings
 
+  ---
+
+  ## Project Workflow
+
+This project follows a structured end to end workflow
+
+1. Business Understanding
+2. Data Understanding
+3. Data Preparation & EDA
+4. Analysis & Insights
+5. Visualization 
+
+
 ---
 
 ## Tools and Technologies
@@ -91,14 +104,7 @@ The analysis shows that customer behavior metrics such as age group, subscriptio
 
 By identifying high-value customer segments and top-performing categories, this project highlights actionable opportunities to improve retention, increase revenue, and support data-driven decision-making.
 
----
-
-## How to Run This Project
-1. Review the SQL scripts used for data preparation  
-2. Explore the Python notebook for exploratory analysis  
-3. Open the Power BI `.pbix` file to interact with the dashboard  
-
----
+--- 
 
 ## Future Enhancements
 - Customer lifetime value (CLV) modeling  
