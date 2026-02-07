@@ -6,8 +6,7 @@ An end-to-end customer behavior analytics project using SQL, Python, and Power B
 ---
 
 ## Overview
-This project focuses on analyzing customer behavior data to uncover insights related to purchasing habits, subscription status, demographic segments, and product performance.
-
+Analyzed customer purchasing behavior to identify churn drivers and retention opportunities. Used SQL for data extraction and Python for clustering and regression analysis. Findings informed targeted strategies that could improve retention.
 The goal is to transform raw customer-level data into meaningful business insights through structured data preparation, analysis, and visualization. The final output is an interactive Power BI dashboard designed to support data-driven decision-making.
 
 ---
